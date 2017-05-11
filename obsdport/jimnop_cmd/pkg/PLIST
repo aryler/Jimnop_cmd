@@ -1,0 +1,5 @@
+@comment $OpenBSD$
+lib/jim/nop_cmd.so
+share/doc/jimnop_cmd/
+share/doc/jimnop_cmd/LICENSE
+share/doc/jimnop_cmd/jimnop_cmd.txt

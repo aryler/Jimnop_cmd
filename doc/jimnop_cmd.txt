@@ -1,0 +1,14 @@
+NAME
+	Jimnop_cmd - Jim no-operation command
+
+SYNOPSIS
+	package require nop_cmd
+
+	nop ?arg ...?
+
+DESCRIPTION
+	The Jimnop_cmd extension provides a no-operation command.
+
+COMMAND
+	nop
+		Returns an empty string.

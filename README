@@ -1,0 +1,24 @@
+what:	Jimnop_cmd 0.1
+where:	https://github.com/aryler/Jimnop_cmd
+who:	Stuart Cassoff <stwo@users.sourceforge.net>
+why:	Jim no-operation command
+when:	Spring 2017
+how:	$ /path/to/configure ?options? && make
+how:	$ make test
+how:	$ make install
+need:	Jim, POSIX
+
+This package contains all the pieces for building
+a Jim C extension and may be used as a starting
+point for building new extensions.
+
+This package should build easily on any POSIX system.
+
+This package uses Spot o' Conf to configure and build.
+
+By default, This package will be configured to build
+for Jim on OpenBSD.
+
+Use configuration option -bje and Makefile target bje
+to build using build-jim-ext.
+
